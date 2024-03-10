@@ -1,0 +1,7 @@
+{
+  "variables": {
+    "external_ip": "b1gd8mhssh3kbf6516p1",
+    "redis_port": "3456",
+    "db_username": "admin"
+  }
+}
